@@ -1,0 +1,26 @@
+{
+  "name": "paw2_kuis1_si5b_2428240082_muhammadilhamfajri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IlhamFajrii/PAW2_Kuis1_SI5B_2428240082_MuhammadIlhamFajri.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/IlhamFajrii/PAW2_Kuis1_SI5B_2428240082_MuhammadIlhamFajri/issues"
+  },
+  "homepage": "https://github.com/IlhamFajrii/PAW2_Kuis1_SI5B_2428240082_MuhammadIlhamFajri#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.6",
+    "express": "^5.2.1"
+  }
+}
